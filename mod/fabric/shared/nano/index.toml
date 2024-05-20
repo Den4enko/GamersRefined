@@ -1,0 +1,414 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bclib/client.json"
+
+[[files]]
+file = "config/create-client.toml"
+
+[[files]]
+file = "config/fancymenu/assets/background.jpg"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+
+[[files]]
+file = "config/openloader/data/attrition.pw.toml"
+metafile = true
+
+[[files]]
+file = "filesToRemove.txt"
+
+[[files]]
+file = "mods/abridged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/archers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/attributes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/basic-weapons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-beautify-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-create-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ctov-villagers-plus-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/desolation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/epic-samruais-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gazebos.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/guild.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/manic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mythic-charms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-spread.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/not-just-biomes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/origin-furs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/profundis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simply-skills.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/subsurface.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trimseffects.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/underground-bunkers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+metafile = true

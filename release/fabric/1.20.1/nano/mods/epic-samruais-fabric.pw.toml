@@ -1,0 +1,13 @@
+name = "Epic Samurai's - Fabric"
+filename = "EpicSamurai-Fabric-0.0.5-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YnkZj7uF/versions/IPecHDfr/EpicSamurai-Fabric-0.0.5-beta.jar"
+hash-format = "sha1"
+hash = "8f68ada8e337d5551138951b30a3aa894d211639"
+
+[update]
+[update.modrinth]
+mod-id = "YnkZj7uF"
+version = "IPecHDfr"
