@@ -98,6 +98,10 @@ file = "mods/botania.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
@@ -122,7 +126,23 @@ file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
 metafile = true
 
 [[files]]
@@ -254,6 +274,10 @@ file = "mods/origins-classes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/origins-plus-plus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 metafile = true
 
@@ -270,7 +294,15 @@ file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
 metafile = true
 
 [[files]]

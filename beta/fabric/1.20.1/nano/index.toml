@@ -110,7 +110,7 @@ hash = "994c61fa95dd4140426429c7bd229c05b7d0d7748eecc6988e6f0359d42f9b71"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "9c35a7846fd6fb316bacc0382f49d6336a2bc9500c2da92bbabc7f3a68dbdd30"
+hash = "a88006f84ecb6f7c130fa912a4b1befca28c93b295ca925911861a81040a6808"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -158,12 +158,7 @@ hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
-hash = "accb774b8cdd52fece03a4e4349eb0e8408ed64143acd10a36e4e930c288c04e"
-
-[[files]]
-file = "config/openloader/data/attrition.pw.toml"
-hash = "b350d59d3bc08d6a8da172ba870e9db1df5680c24519968c5473c931007f56ed"
-metafile = true
+hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
 
 [[files]]
 file = "config/openloader/resources/Chat_Reporting_Helper.pw.toml"
@@ -254,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributes.pw.toml"
-hash = "9c5f70d04a021e1b368cb4af3d4091854501e79b47f1d2c6ac50433d33b6bc0e"
+hash = "2d9ae4815d4416ee2ce6bdbcdce91589ef13f3d3e884e223f89417cd9c0c8375"
 metafile = true
 
 [[files]]
@@ -308,6 +303,11 @@ hash = "72983ba160e1f1359c121e0ec84315a1073e24a19287c2c446efd17bf2edb3e5"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "43fe767a08365fa6c049c8e35323f6fd1a0aa4602725126e460ae6fd514888be"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "f42d3641b199518a574388e34a2812e70cb672d988ef4a2674a7e5f8b9c090f2"
 metafile = true
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a639b9b66928716a818ac9e5deb002d217cb998babeebbdbc6ea4af07ec07ce3"
+hash = "12bfd075e78e307a331253f247201bf261cbe41cdfa57be73e00f8867e2f46f9"
 metafile = true
 
 [[files]]
@@ -338,8 +338,28 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "7785ef584230e0acedebd4005d466a316c8f0816358160570cf276656182866a"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
 hash = "7f9bb4c2ec80c5cc5d93f7e1559ccd03ac0d72a2572f4ea15c33a56d6e332bab"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "e0c3edb69b3abaf660507127e993d2880faf30ddead8a42391c1d9571c467784"
 metafile = true
 
 [[files]]
@@ -608,6 +628,11 @@ hash = "342a37149bbecd22f74b8a0cf87c35f58112b105fc5f29fd716028a2350fdcc7"
 metafile = true
 
 [[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "569840d3fe74fe9d4b093fb456b8a9f4d167eabee8b155b1e08bbce71ecb6285"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
 metafile = true
@@ -633,8 +658,18 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5f90796765960f0fd2983895ceb3f345bd723ff826d24b4f291fa6256f4ce002"
 metafile = true
 
 [[files]]
@@ -679,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/skills.pw.toml"
-hash = "0a51369b1b542559eaac212f2fe5729bf7ae77e3e7533b3fdd26200bbff04c20"
+hash = "c7324dbe0a07e9981872542bfaeb334925ffa482593dd86ed49f29980958dbe9"
 metafile = true
 
 [[files]]
