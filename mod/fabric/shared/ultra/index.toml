@@ -1,0 +1,12 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+
+[[files]]
+file = "config/openloader/resources/fresh-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+metafile = true

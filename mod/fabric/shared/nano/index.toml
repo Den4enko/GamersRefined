@@ -16,13 +16,6 @@ file = "config/fancymenu/assets/logo.png"
 file = "config/fancymenu/options.txt"
 
 [[files]]
-file = "config/openloader/advanced_options.json"
-
-[[files]]
-file = "config/openloader/data/attrition.pw.toml"
-metafile = true
-
-[[files]]
 file = "filesToRemove.txt"
 
 [[files]]
@@ -167,6 +160,10 @@ metafile = true
 
 [[files]]
 file = "mods/dawn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
 metafile = true
 
 [[files]]

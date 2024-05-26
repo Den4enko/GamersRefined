@@ -29,10 +29,6 @@ file = "config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
-file = "config/capes.json5"
-hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
-
-[[files]]
 file = "config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
@@ -57,6 +53,14 @@ file = "config/debugify.json"
 hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "935f32a5b431728e1147f3d8e6fa63d0546de8200b1a24cbdc6931cab96007fb"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "e15c0ab7643ff1e6e6bc29ea2cb63243f8fca7fbaf6fa39317f3fe0e997af658"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
 
@@ -78,7 +82,7 @@ hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
 
 [[files]]
 file = "config/fancymenu/assets/background.jpg"
-hash = "1f6ae1f4e25a1298440b0d90b7df387a9f09e67d928019fc879c188d317b38e5"
+hash = "0044e82d179169c7a3f456954ca40c9ce4dd76e0d35c264b526eebd8c7a04855"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
@@ -98,7 +102,7 @@ hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
 
 [[files]]
 file = "config/fancymenu/assets/logo.png"
-hash = "de50c68556d429c72849a65e3f61687d1e72f94b78fdde640aa9c8acda8c6274"
+hash = "512015c952b6012222e557404c389b197089b8dc610afddcdbe9761807d916e8"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
@@ -114,11 +118,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "994c61fa95dd4140426429c7bd229c05b7d0d7748eecc6988e6f0359d42f9b71"
+hash = "519fdbad82a75909b673257ca111f323058d748297aa91dd599f24cb17ef456a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "a88006f84ecb6f7c130fa912a4b1befca28c93b295ca925911861a81040a6808"
+hash = "fa2dd05a4191edc1e334583e1fb980d7d9e9c0feb12d42fe0a7fea761940d9f0"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -195,7 +199,7 @@ hash = "ce26d3f82a2d8a6286f0911dfd2cfa52a802a6ebcc1aa940bb58723e1ca538a1"
 
 [[files]]
 file = "config/openloader/resources/SodiumTranslations.pw.toml"
-hash = "9f87abdb820efb12eded29a3528954a0e947ccedd65c2233e5f0e54326618658"
+hash = "16e94eccd085b57c14c094cda06781469dbad5b9bea0a6834ddd8cfbe9961ab9"
 metafile = true
 
 [[files]]
@@ -221,10 +225,6 @@ file = "config/voicechat/voicechat-client.properties"
 hash = "1981d37ef6a96bdfc10768dfdac41a668505dce48b04578d93551d23be95896d"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "05844f823a1f6877514437be7c2de2bad86526e0b526a6fb9da4297d58cc4c5d"
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "09e75d231708f85b17f00b1079fcd205642afdc011d2644d50600635c64cfd5e"
 metafile = true
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "e853b0a08068b6cdaa7f84702b71b336c0fdedc3ea84642ea095d05b3796a05d"
+hash = "f661a4d76e840d004fbec4b1be367c2210210587d11d575fda8f51c2903d01a9"
 metafile = true
 
 [[files]]
@@ -460,6 +460,11 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
 file = "mods/desolation.pw.toml"
 hash = "9350fae4c971065da2e1c3c8c67df271cd2bf6e9ba38d2bfde5e191004f7aec3"
 metafile = true
@@ -506,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5cd2e72b99f6dba0ac7863c5e1330fb967c3c7a3cddcc8e2a0fd6673b27e3a9a"
+hash = "5604f687da9662e85aab8cab925bce2b4d9a799ed6f89324534b33e39773ee9a"
 metafile = true
 
 [[files]]
@@ -521,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -721,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "405c939e003bb90ba52c3addcd11de428e56e1afcd46d8aa3c137f103c8f6284"
+hash = "ec277331d582b3e88b3f6bed3a77f4f526689680507d718f76a1d0fd03ffcf54"
 metafile = true
 
 [[files]]
@@ -786,12 +791,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "5f90796765960f0fd2983895ceb3f345bd723ff826d24b4f291fa6256f4ce002"
+hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "73ba50359a21acea383225510a96b5833b9633b4bf0b4484cedea6bbb34bcc81"
+hash = "fc4e5c50e79cd96ba7b2a5b20e4a818a48f80be51216dee8c9ba4852e32c82e6"
 metafile = true
 
 [[files]]
@@ -911,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
+hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
 metafile = true
 
 [[files]]
@@ -947,11 +952,6 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "11f5dcc17f9628867eafb30708e6872a569ff0eb8888d4e4d99cf1af073057b5"
 metafile = true
 
 [[files]]
