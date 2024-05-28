@@ -8,5 +8,9 @@ file = "config/openloader/resources/fresh-animations.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
+file = "mods/better-third-person.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp.pw.toml"
 metafile = true

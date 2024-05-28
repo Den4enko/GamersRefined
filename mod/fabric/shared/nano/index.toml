@@ -7,6 +7,9 @@ file = "config/bclib/client.json"
 file = "config/create-client.toml"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
 file = "config/fancymenu/assets/background.jpg"
 
 [[files]]
@@ -23,11 +26,23 @@ file = "mods/abridged.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics.pw.toml"
 metafile = true
 
 [[files]]
@@ -75,6 +90,10 @@ file = "mods/beautify-refabricated.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 metafile = true
 
@@ -84,6 +103,10 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
 metafile = true
 
 [[files]]
@@ -159,11 +182,11 @@ file = "mods/ctov-villagers-plus-compat.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dawn.pw.toml"
+file = "mods/cupboard.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
+file = "mods/dawn.pw.toml"
 metafile = true
 
 [[files]]
@@ -171,7 +194,19 @@ file = "mods/desolation.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/diet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-difficulty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dusk.pw.toml"
 metafile = true
 
 [[files]]
@@ -184,6 +219,10 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
@@ -211,11 +250,19 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gigeresque.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/grappling-hook-mod-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/guild.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
 metafile = true
 
 [[files]]
@@ -231,6 +278,10 @@ file = "mods/jewelry.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/manic.pw.toml"
 metafile = true
 
@@ -239,11 +290,23 @@ file = "mods/mariums-soulslike-weaponry.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-delight.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/mythic-charms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
@@ -303,6 +366,10 @@ file = "mods/polymorph.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/profundis.pw.toml"
 metafile = true
 
@@ -335,6 +402,10 @@ file = "mods/skills.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/smartbrainlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 metafile = true
 
@@ -352,6 +423,10 @@ metafile = true
 
 [[files]]
 file = "mods/subsurface.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
