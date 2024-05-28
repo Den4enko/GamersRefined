@@ -122,7 +122,7 @@ hash = "519fdbad82a75909b673257ca111f323058d748297aa91dd599f24cb17ef456a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "de38bfeaeb5bd51493d94625eca8527c5533ccefcdd8c2f4621d2e6936abc116"
+hash = "3105870bff083a8bd5caafe657125747b28fdacc46f433a8b6a6fe4262d6f2eb"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -727,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "456ed79ce8f33174dcee7c6a5f6e833e78f12c13d5f5e0bdc7b25a40fb5aaa29"
 metafile = true
 
 [[files]]
