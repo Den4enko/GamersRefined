@@ -12,5 +12,9 @@ file = "mods/better-third-person.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sleep-warp.pw.toml"
+file = "mods/iris-flw-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
 metafile = true

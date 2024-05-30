@@ -122,7 +122,7 @@ hash = "519fdbad82a75909b673257ca111f323058d748297aa91dd599f24cb17ef456a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "28bb7c410da2dbe8973fcebab339a90509a8058ca9b7ec6a8ae6c16ae30b9302"
+hash = "aae5d509f5fcb6cb439f88096a1dc3b735802ff3bd28260128b6c51add91721c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -450,6 +450,11 @@ hash = "e0c3edb69b3abaf660507127e993d2880faf30ddead8a42391c1d9571c467784"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "859266aaeb71bdbd8e5a0126338a6da6bc4550de0878282cebbc87c8ce839350"
 metafile = true
@@ -662,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "3d809847342f9eec9400018aae9b36803e8297963b0a5c15f9e5b25c55d4d6a7"
 metafile = true
 
 [[files]]
@@ -927,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "c7324dbe0a07e9981872542bfaeb334925ffa482593dd86ed49f29980958dbe9"
-metafile = true
-
-[[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "25c6c26c56658a11b6cdd930ba2403817c52718824033077615890a1d00ece32"
 metafile = true
 
 [[files]]

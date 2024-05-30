@@ -114,7 +114,7 @@ hash = "519fdbad82a75909b673257ca111f323058d748297aa91dd599f24cb17ef456a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "28bb7c410da2dbe8973fcebab339a90509a8058ca9b7ec6a8ae6c16ae30b9302"
+hash = "aae5d509f5fcb6cb439f88096a1dc3b735802ff3bd28260128b6c51add91721c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -385,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/create-utilities.pw.toml"
 hash = "e0c3edb69b3abaf660507127e993d2880faf30ddead8a42391c1d9571c467784"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]

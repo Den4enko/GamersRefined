@@ -162,6 +162,10 @@ file = "mods/create-utilities.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 metafile = true
 
@@ -179,10 +183,6 @@ metafile = true
 
 [[files]]
 file = "mods/ctov-villagers-plus-compat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
 metafile = true
 
 [[files]]
