@@ -122,7 +122,7 @@ hash = "519fdbad82a75909b673257ca111f323058d748297aa91dd599f24cb17ef456a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "46bf31a4de7427fbd2529df9d62f32f3391ece43397e6d108cf8f67776fc39c1"
+hash = "28bb7c410da2dbe8973fcebab339a90509a8058ca9b7ec6a8ae6c16ae30b9302"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "535d8eaff4400f4750c1ee7aeb5ca741ade391ecef5bf25bf80517bac1dc83b1"
+hash = "6a543b037e5603fa6bd14b6f5861592a975ab29406fc28961ed026d56d952536"
 metafile = true
 
 [[files]]
@@ -480,11 +480,6 @@ hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
-metafile = true
-
-[[files]]
 file = "mods/dawn.pw.toml"
 hash = "f5c59597a73ad6bb7b7484e8207dd36d22223250948116bb42924867637de778"
 metafile = true
@@ -522,11 +517,6 @@ metafile = true
 [[files]]
 file = "mods/dungeon-difficulty.pw.toml"
 hash = "86bcf8c168eadfd3db1d87a5d90664feca1d38669957c7396c219e5498f575b2"
-metafile = true
-
-[[files]]
-file = "mods/dusk.pw.toml"
-hash = "e08384c58e94312859c5cda36e9d9ec2b5326becf488ab96679d65a17183ef2a"
 metafile = true
 
 [[files]]

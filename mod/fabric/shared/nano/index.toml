@@ -206,10 +206,6 @@ file = "mods/dungeon-difficulty.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dusk.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 metafile = true
 
