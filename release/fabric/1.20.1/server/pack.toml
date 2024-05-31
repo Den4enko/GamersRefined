@@ -1,0 +1,17 @@
+name = "GamersRefined"
+author = "GamersModpacks"
+version = "v1.3.6-pre"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2caf986e4c1c2a8e9dc5848cb8211a601cc2aed6a67154a54daf3f7694f3dec3"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "config/openloader/data"
+no-internal-hashes = "true"
