@@ -37,10 +37,6 @@ file = "config/create-client.toml"
 hash = "af1964be1800426eeb0bc17442b0da7f54b3f70f6fe3179b432b1557dfcd2c42"
 
 [[files]]
-file = "config/dashloader.json"
-hash = "3985f8a0b78e86dd73044cf8aaceed416967be04d8a6b4f7610b777d96a724f1"
-
-[[files]]
 file = "config/debugify.json"
 hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
@@ -114,7 +110,7 @@ hash = "c26802070fa2fbf77c1928c7681e9687941e4e59dda82924e2174fdd898446f6"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "50c4dc563db94045f04b72caf40ed8e6a356f61a18b627a001b05f6ddd0d833d"
+hash = "2d1a1d6caa94d99a6dea4df625508e8bba20e32760c3fc2e1d4a4aa6cb50050c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -487,6 +483,11 @@ hash = "fbbe9fc78bcceaf9df16712eb582f230ed94579256a68d15ee9b27726cb2341b"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
 metafile = true
@@ -644,16 +645,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "3d809847342f9eec9400018aae9b36803e8297963b0a5c15f9e5b25c55d4d6a7"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
@@ -903,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+hash = "3a918ed8f788c9fdc80655da76c9499aaf60a468f5960bbf6e744ddf10231754"
 metafile = true
 
 [[files]]

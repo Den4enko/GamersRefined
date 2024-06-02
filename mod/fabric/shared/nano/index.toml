@@ -19,4 +19,15 @@ file = "config/fancymenu/assets/logo.png"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/xaerominimap.txt"
+
+[[files]]
 file = "filesToRemove.txt"
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true

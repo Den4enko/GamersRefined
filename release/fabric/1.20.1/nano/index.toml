@@ -37,10 +37,6 @@ file = "config/create-client.toml"
 hash = "af1964be1800426eeb0bc17442b0da7f54b3f70f6fe3179b432b1557dfcd2c42"
 
 [[files]]
-file = "config/dashloader.json"
-hash = "3985f8a0b78e86dd73044cf8aaceed416967be04d8a6b4f7610b777d96a724f1"
-
-[[files]]
 file = "config/debugify.json"
 hash = "524dfce3e12326f637bb6e871dd91409f1926fec8367e69d965f317ac528559e"
 
@@ -110,7 +106,7 @@ hash = "c26802070fa2fbf77c1928c7681e9687941e4e59dda82924e2174fdd898446f6"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "50c4dc563db94045f04b72caf40ed8e6a356f61a18b627a001b05f6ddd0d833d"
+hash = "2d1a1d6caa94d99a6dea4df625508e8bba20e32760c3fc2e1d4a4aa6cb50050c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -785,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+hash = "3a918ed8f788c9fdc80655da76c9499aaf60a468f5960bbf6e744ddf10231754"
 metafile = true
 
 [[files]]
