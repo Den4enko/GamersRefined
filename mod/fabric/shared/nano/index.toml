@@ -13,6 +13,15 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/fancymenu/assets/background.jpg"
 
 [[files]]
+file = "config/fancymenu/assets/icon.icns"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+
+[[files]]
 file = "config/fancymenu/assets/logo.png"
 
 [[files]]
@@ -50,6 +59,10 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/way2wayfabric.pw.toml"
 metafile = true
 
 [[files]]

@@ -365,10 +365,6 @@ file = "mods/ranged-weapon-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/runes.pw.toml"
 metafile = true
 
