@@ -225,6 +225,10 @@ file = "mods/guild.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 metafile = true
 
@@ -289,7 +293,15 @@ file = "mods/obscure-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
@@ -322,6 +334,10 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
 metafile = true
 
 [[files]]
@@ -434,6 +450,10 @@ metafile = true
 
 [[files]]
 file = "mods/villagersplus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
 metafile = true
 
 [[files]]

@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d9cde7ab006d67906422390fd499e84b2269ddb52866a53f2e2c6b295d3ee116"
+hash = "8d5371088e70158b0f7fb5ef7e8681c1a6f1f4851aceb02b46530840395f541b"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributes.pw.toml"
-hash = "2d9ae4815d4416ee2ce6bdbcdce91589ef13f3d3e884e223f89417cd9c0c8375"
+hash = "40b84fe167d5b526db551bb5db9fd9e04892d5b4f131a2eea8635acb548e7d6d"
 metafile = true
 
 [[files]]
@@ -71,17 +71,17 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "6a543b037e5603fa6bd14b6f5861592a975ab29406fc28961ed026d56d952536"
+hash = "32069078818e3950fac66f019838e6692b885c841991b828b2a99d7c07f0767d"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+hash = "f4fce67c57b4c42e12e705c25ec3feedb85cef927c2578983e59a59582c81ace"
 metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "8401a9839fefcfb5be7f9e8d6c5ec09b5fb17d53d0d1a4232256fc5ce1a9a62f"
+hash = "47d16fab7ad339702889c2ee31548bfdb990d9dd585a5cf7fd5c1f1b24f8582c"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
+hash = "f7c1de8660dd549c1c66e6105f75d4c336c0e700da5080cde2dd5b877c38bdd5"
 metafile = true
 
 [[files]]
@@ -315,6 +315,11 @@ hash = "b04e9a3ae9923aa300be0d87a39599ba9b4b93b08e0ed5cdb242607f6d954864"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "d9a21276de16a0e50c83cc730e24e2794a6393b238cf22ca96753d118525bd74"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
@@ -376,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
+hash = "e5020303f722daf230d68194a1b6e45c79bbeaa8a54b44745d04dcea94b6d88d"
 metafile = true
 
 [[files]]
@@ -420,8 +425,18 @@ hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b61858247ad476daca4d59fce04e029924d9215207f260c338ce9a446f90f461"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "ec277331d582b3e88b3f6bed3a77f4f526689680507d718f76a1d0fd03ffcf54"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "a8e78756fab40c2ca32794f30aa1c8188e721c463f6c797e1b3b7d972ae0d8b1"
 metafile = true
 
 [[files]]
@@ -470,6 +485,11 @@ hash = "13091ff0815de249403d896735a9d429d52e8807f57e85732d4d250deca43228"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ef84d9a7ee3b67688643b6f9a8d03f6e8211adbf4b0fbe62f4ed5982da29c453"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
@@ -495,6 +515,11 @@ hash = "cea537d2665d8d3db007edee7550048060967f5b70dd758703264657f19a348d"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "5bcf5b6742a1689ed67578adfe02702fbe710b9d0ea79079bedaebc086d539d9"
 metafile = true
@@ -502,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/recipecooldown.pw.toml"
 hash = "4daf3f0a2d8731626f24a871815c64949452be6ec3718d83b2bbe7441e427a99"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "3a918ed8f788c9fdc80655da76c9499aaf60a468f5960bbf6e744ddf10231754"
 metafile = true
 
 [[files]]
@@ -627,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "188446af62176270c59bb0532ce9029c256be9efe73b98f3906d2f7c3a80b0f0"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "4b1ac891c4294406a9660e50aa2fdf267e3714e2523c44506f93ce234903bf91"
 metafile = true
 
 [[files]]
