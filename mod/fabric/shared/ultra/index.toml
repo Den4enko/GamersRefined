@@ -17,3 +17,7 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+metafile = true

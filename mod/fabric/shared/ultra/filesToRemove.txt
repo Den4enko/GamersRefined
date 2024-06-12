@@ -1,3 +1,2 @@
 mods/dashloader.pw.toml
 config/dashloader.json
-mods/iris.pw.toml
