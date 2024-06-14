@@ -1,5 +1,11 @@
 ## CHANGELOG:
 
+### v3.1:
+
+- Updated mods
+- Updated PackFramework
+
+
 ### v3:
 
 - Updated mods
