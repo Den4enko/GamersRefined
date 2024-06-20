@@ -1,5 +1,10 @@
 ## CHANGELOG:
 
+### v4:
+
+- Updated some mods
+- Removed Epic Samurai's, Gigeresque, SmartBrainLib
+
 ### v3.1:
 
 - Updated mods

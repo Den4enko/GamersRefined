@@ -177,10 +177,6 @@ file = "mods/enhanced-celestials.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/epic-samruais-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 
@@ -210,10 +206,6 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/gigeresque.pw.toml"
 metafile = true
 
 [[files]]
@@ -378,10 +370,6 @@ metafile = true
 
 [[files]]
 file = "mods/skills.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/smartbrainlib.pw.toml"
 metafile = true
 
 [[files]]
