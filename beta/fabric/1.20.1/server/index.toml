@@ -310,6 +310,11 @@ hash = "d9a21276de16a0e50c83cc730e24e2794a6393b238cf22ca96753d118525bd74"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
@@ -347,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ad5d8867c34cb29afcb8d1d0e3898a6575a7146f97a839029f1a380fab49a629"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "3b92cebe97fe4c46fad28178fc1027c42ddbaf13ad2b541aa9b7516a4aa45fc1"
 metafile = true
 
 [[files]]

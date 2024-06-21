@@ -106,7 +106,7 @@ hash = "54b6fa748291a03dba4011c0960a44196a05a9252511407a0f2054a8f0f01499"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "1512e57b0f8b642d0b85a65e0f3b68cfb88790b15e211d4e3d428af2c7757022"
+hash = "b50b23dfdf0b81b6aa26b24a8a3b7896d600add3fb0ba1f28a9f917ea9f7061c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -580,6 +580,11 @@ hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
@@ -632,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ad5d8867c34cb29afcb8d1d0e3898a6575a7146f97a839029f1a380fab49a629"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "3b92cebe97fe4c46fad28178fc1027c42ddbaf13ad2b541aa9b7516a4aa45fc1"
 metafile = true
 
 [[files]]

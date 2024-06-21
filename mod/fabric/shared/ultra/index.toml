@@ -1,7 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/advanced_options.json"
+file = "config/openloader/resources/create-immersive-aircrafts-resource-pack.pw.toml"
+metafile = true
 
 [[files]]
 file = "config/openloader/resources/fresh-animations.pw.toml"
