@@ -1,12 +1,12 @@
 name = "GamersRefined"
 author = "GamersModpacks"
-version = "v4.1"
+version = "v5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ce760370473ba2d1b4a04840b3a8647798bdef6086305074d5d48e9dafd33671"
+hash = "6ebbafd40a09e62d1e6eeaa2474c0a8fd89e9cc25e02c36c7253333344dbc492"
 
 [versions]
 fabric = "0.15.11"
