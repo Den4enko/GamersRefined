@@ -1,4 +1,4 @@
-$scriptVersion = "v2"
+$scriptVersion = "v3"
 . $PSScriptRoot\ScriptConfig.ps1
 function Select-NewMPVersion {
     $lastVersion = Get-Content -Path "$PSScriptRoot/beta/lastVersion.txt"
@@ -113,6 +113,8 @@ function Build-Modpack {
     if ($modpacktype -eq 'nano' -or $modpacktype -eq 'ultra') {
     Write-Host "[$(Get-Date -Format 'mm:ss')] Copying Changelog..."
     Copy-Item "$PSScriptRoot\CHANGELOG.md" "$outputPath\config\fancymenu\assets\changelog.md"
+    Copy-Item "$PSScriptRoot\CHANGELOG-RU.md" "$outputPath\config\fancymenu\assets\changelog-ru_ru.md"
+    Copy-Item "$PSScriptRoot\CHANGELOG-UK.md" "$outputPath\config\fancymenu\assets\changelog-uk_ua.md"
     }
     # Update the modpack using packwiz
     Write-Host "[$(Get-Date -Format 'mm:ss')] Refreshing..."

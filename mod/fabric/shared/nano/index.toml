@@ -31,22 +31,7 @@ file = "config/fancymenu/options.txt"
 file = "config/xaerominimap.txt"
 
 [[files]]
-file = "filesToRemove.txt"
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
 metafile = true
 
 [[files]]
@@ -67,8 +52,4 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
 metafile = true

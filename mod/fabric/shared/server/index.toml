@@ -117,6 +117,10 @@ file = "mods/create-fabric.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 metafile = true
 
@@ -170,6 +174,18 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-difficulty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
 metafile = true
 
 [[files]]
@@ -457,6 +473,10 @@ file = "mods/wizards.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 metafile = true
 
@@ -494,8 +514,4 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-extras.pw.toml"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 metafile = true

@@ -9,8 +9,5 @@ file = "config/openloader/resources/fresh-animations.pw.toml"
 metafile = true
 
 [[files]]
-file = "filesToRemove.txt"
-
-[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 metafile = true
